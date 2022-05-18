@@ -1,1 +1,1 @@
-This is featureA.
+This is featureA. Features has been added.
